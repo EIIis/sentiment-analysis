@@ -6,7 +6,6 @@ import re
 import tweepy
 import pandas as pd
 import numpy as np
-from wordcloud import WordCloud
 from textblob import TextBlob
 import matplotlib.pyplot as plt
 
